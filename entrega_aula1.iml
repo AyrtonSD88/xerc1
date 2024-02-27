@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_1" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_10" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_11" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_12" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_13" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_14" isTestSource="false" packagePrefix="fundamentos.controle" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_15" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_16" isTestSource="false" packagePrefix="fundamentos.controle" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_17" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_18" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_19" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_2" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_20" isTestSource="false" packagePrefix="funcoes" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_21" isTestSource="false" packagePrefix="funcoes" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_3" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_4" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_5" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_6" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_7" isTestSource="false" packagePrefix="fundamentos" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_8" isTestSource="false" packagePrefix="fundamentos.controles" />
+      <sourceFolder url="file://$MODULE_DIR$/exerc1_9" isTestSource="false" packagePrefix="fundamentos.controles" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
